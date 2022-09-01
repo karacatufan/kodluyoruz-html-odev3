@@ -1,1 +1,1 @@
-# kodluyoruz-html-odev3
+Bu web sayfası Kodluyoruz Frontend Web Development HTML eğitimi için yaptığım bir ödev çalışmasıdır.
